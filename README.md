@@ -33,7 +33,6 @@ main
 - animate_robot.m
 - plot_results.m
 
-
 ## Track Changed
 
 This version uses a new cleaner full route with long straights, smoother turns, start point, and red-star endpoint.
